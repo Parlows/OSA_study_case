@@ -10,7 +10,7 @@ rm(list=ls())
 Input_file <- "Info_BDApnea_QuironMalaga.xlsx"
 Output_file <- "OSA_DB_UPM.xlsx"
 
-Data_Directory <- "C:/Users/pablo/OneDrive - Universidad Politécnica de Madrid/MUIT/3S/PRDL/REPORT CODE/data/"
+Data_Directory <- "data/"
 
 # Using readxl package to read an Excel file
 library(readxl)
